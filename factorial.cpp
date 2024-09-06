@@ -5,7 +5,7 @@ int fac(int);
 
 int main() {
 	int num;
-	cout<<"Ingrese un numero: "; cin>>num; 
+	cout<<"Factorial de un numero\nIngrese un numero: "; cin>>num; 
 	cout<<fac(num);
 }
 
